@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+
+}
+
+a{
+    color:gold;
+
+}
+
+img{
+    border: 2px solid red;
+    width: 200px;
+    height: 300px;
+    display: block;
+}
